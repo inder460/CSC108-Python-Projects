@@ -1,0 +1,8 @@
+Movie Songs and Ratings
+# These are Dan;s ratings
+# Visit Dan in office hours to discuss
+Aladdin, Friend Like Me, 9
+Frozen, Let It Go, 4
+The Lion King, Be Prepared, 11
+The Little Mermaid, Part Of Your World, 10
+Aladdin, A Whole New World, 6
